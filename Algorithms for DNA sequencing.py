@@ -1,4 +1,4 @@
-Algorithms for DNA sequencing
+Algorithms for DNA sequencing (DNA sequencing, strings and matching)
 ## Finding the Longest common Prefix in sequence
 
 A= def longestCommonPrefix(s1, s2):
